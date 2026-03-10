@@ -1,0 +1,19 @@
+{
+  "name": "@example/generators-lib",
+  "version": "1.0.0",
+  "description": "Generator and iterator utilities library",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "author": "sunfl0wer",
+  "license": "MIT",
+  "keywords": [
+    "generators",
+    "iterators"
+  ]
+}
