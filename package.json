@@ -1,5 +1,6 @@
 {
-  "name": "@example/generators-lib",
+  "name": "password-generator-lib-prog-lab2",
+  "private": true,
   "version": "1.0.0",
   "description": "Generator and iterator utilities library",
   "type": "module",
