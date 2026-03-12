@@ -16,10 +16,13 @@ npm install ./2-example-lib
 ## Usage
 
 ```javascript
-import { stringRandom, iteratorTimeout } from "@example/generators-lib";
+import {
+  stringRandom,
+  iteratorTimeout,
+} from "password-generator-lib-prog-lab2";
 
 // Generate random strings using the generator
-const generator = stringRandom(10);
+const generator = stringRandom(10, "");
 console.log(generator.next().value);
 
 // Use iterator with timeout (pass the generator)
