@@ -7,10 +7,11 @@ A utility library providing generator functions and iterator utilities for worki
 - **String Random Generator**: Generate random strings using a generator function
 - **Iterator Timeout**: Process iterators with timeout constraints
 
-## Installation
+## Installation (as a local dependency)
 
 ```bash
-npm install ./2-example-lib
+git clone https://github.com/therealsunfl0wer/password-generator-lib-prog-lab2
+npm install ./password-generator-lib-prog-lab2
 ```
 
 ## Usage
